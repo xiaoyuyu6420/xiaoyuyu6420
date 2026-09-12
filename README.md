@@ -1,13 +1,9 @@
-<p align="center">
-  <img src="assets/banner.png" alt="枭钰钰" width="100%">
-</p>
-
-独立开发者，写小工具，偶尔逆向协议。
+独立开发者，写小工具。
 
 ## 在做
 
 - [dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) — DeepSeek Harness 的备份插件，一条命令备份和恢复整个 `~/.dsh`
-- [anykey-ai](https://github.com/xiaoyuyu6420/anykey-ai) — RK R87 Pro AI 键盘的自定义功能键和麦克风桥接，逆向了私有协议，不用官方软件
+- [anykey-ai](https://github.com/xiaoyuyu6420/anykey-ai) — RK R87 Pro AI 键盘的自定义功能键和麦克风桥接，不装官方软件
 
 ## 做过
 
