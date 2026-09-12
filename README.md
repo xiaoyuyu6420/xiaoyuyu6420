@@ -2,7 +2,7 @@
 
 <img src="assets/banner.png" alt="xiaoyuyu · 枭钰钰" width="100%"/>
 
-[![Typing SVG](https://github-readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%20%C2%B7%20%E6%8A%98%E8%85%BE%20AI%20%E5%B7%A5%E4%BD%9C%E6%B5%81%E3%80%81%E9%80%86%E5%90%91%E5%8D%8F%E8%AE%AE;%E5%81%9A%E3%80%8C%E7%94%A8%E4%BA%86%E6%89%8D%E5%8F%91%E7%8E%B0%E7%A6%BB%E4%B8%8D%E5%BC%80%E3%80%8D%E7%9A%84%E5%B7%A5%E5%85%B7;%E7%94%A8%E5%A5%BD%E5%B7%A5%E5%85%B7%EF%BC%8C%E6%9B%B4%E8%A6%81%E5%81%9A%E6%8A%8A%E5%A5%BD%E5%B7%A5%E5%85%B7%E5%A4%87%E4%BB%BD%E8%B5%B7%E6%9D%A5%E7%9A%84%E5%B7%A5%E5%85%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%20%C2%B7%20%E6%8A%98%E8%85%BE%20AI%20%E5%B7%A5%E4%BD%9C%E6%B5%81%E3%80%81%E9%80%86%E5%90%91%E5%8D%8F%E8%AE%AE;%E5%81%9A%E3%80%8C%E7%94%A8%E4%BA%86%E6%89%8D%E5%8F%91%E7%8E%B0%E7%A6%BB%E4%B8%8D%E5%BC%80%E3%80%8D%E7%9A%84%E5%B7%A5%E5%85%B7;%E7%94%A8%E5%A5%BD%E5%B7%A5%E5%85%B7%EF%BC%8C%E6%9B%B4%E8%A6%81%E5%81%9A%E6%8A%8A%E5%A5%BD%E5%B7%A5%E5%85%B7%E5%A4%87%E4%BB%BD%E8%B5%B7%E6%9D%A5%E7%9A%84%E5%B7%A5%E5%85%B7)](https://git.io/typing-svg)
 
 </div>
 
