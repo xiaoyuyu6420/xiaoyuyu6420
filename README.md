@@ -5,10 +5,6 @@
 
 独立开发者。
 
-正在维护 [dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) —— DeepSeek Harness 的备份插件，一条命令备份和恢复整个 `~/.dsh`。其他项目见 [repositories](https://github.com/xiaoyuyu6420?tab=repositories)。
-
-用好工具，更要做把好工具备份起来的工具。
-
 ---
 
 <p align="center">
